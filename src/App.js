@@ -4,7 +4,6 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/About";
 import Contact from "./components/pages/Contact";
 import Navbar from "./components/layout/Navbar";
-import NotFound from "./components/pages/NotFound";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import AddUser from "./components/users/AddUser";
 import EditUser from "./components/users/EditUser";
