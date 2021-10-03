@@ -7,6 +7,22 @@
       "phone": "09243110157",
       "website": "abc.com",
       "id": 2
+    },
+    {
+      "name": "Imrose Batterywala",
+      "username": "ImroseBatterywala",
+      "email": "imrose.batterywala@gmail.com",
+      "phone": "08197475787",
+      "website": "point.com",
+      "id": 3
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "vk",
+      "email": "kohli@gmail.com",
+      "phone": "8493748893",
+      "website": "hildegard.org",
+      "id": 4
     }
   ]
 }
