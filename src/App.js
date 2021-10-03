@@ -21,8 +21,6 @@ function App() {
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/users/add" component={AddUser} />
           <Route exact path="/users/edit/:id" component={EditUser} />
-
-          <Route component={NotFound} />
         </Switch>
       </div>
     </Router>
